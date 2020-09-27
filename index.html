@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Lista de Tareas</title>
+    <link rel="shortcut icon" href="img/lista-tareas.svg">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+    <link rel="stylesheet" href="css/custom.css">
+</head>
+
+<body>
+    <div id="contenido">
+        <div class="container">
+            <h1>Lista de Tareas</h1>
+            <div class="row">
+                <div class="six columns">
+                    <form id="formulario">
+                        <input type="text" id="tarea" class="u-full-width" placeholder="Ingrese Tarea">
+                        <input type="submit" class="button u-full-width button-primary" value="Agregar">
+                    </form>
+                </div>
+                <div class="six columns">
+                    <div class="u-full-width">
+                        <div id="lista-tareas"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

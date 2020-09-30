@@ -1,4 +1,4 @@
-# to-do-list
+# To-do List
 to-do list with local storage persistence
 
 ## Live Preview
@@ -15,4 +15,3 @@ to-do list with local storage persistence
 ### Author
 
 [Néstor Eduardo Aguirre](https://www.linkedin.com/in/nestor-eduardo-aguirre/)
-

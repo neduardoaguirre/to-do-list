@@ -1,5 +1,5 @@
 # To-do List
-to-do list with local storage persistence
+to-do list with LocalStorage persistent storage.
 
 ## Live Preview
 
